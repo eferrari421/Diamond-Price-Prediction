@@ -18,5 +18,5 @@
 - Ridge Regression: MAE = 815.9
 - Decision Tree: MAE = 356.6
 - Random Forest: MAE = 269.2
--Support Vector Machine: MAE = 1059.4
+- Support Vector Machine: MAE = 1059.4
 - K Nearest Neighbors: MAE = 445.2
