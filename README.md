@@ -11,6 +11,8 @@
 - Added dummy variables for the categorical columns
 - Normalized the numerical columns
 
+# Data Visualisation
+
 # Model Building
 #### I tried 7 different models and compared them based on Mean Absolute Error ####
 - Linear Regression: MAE = 721.9
