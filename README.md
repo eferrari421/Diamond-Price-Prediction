@@ -12,6 +12,12 @@
 - Normalized the numerical columns
 
 # Data Visualisation
+#### Here is a sample of some the visuals I created ####
+![](diamond_images/download.png)
+![](diamond_images/download-1.png)
+![](diamond_images/download-2.png)
+![](diamond_images/download-3.png)
+![](diamond_images/download-4.png)
 
 # Model Building
 #### I tried 7 different models and compared them based on Mean Absolute Error ####
